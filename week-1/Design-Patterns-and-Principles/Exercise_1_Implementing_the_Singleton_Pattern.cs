@@ -11,9 +11,11 @@ namespace DesignPatternsAssignment
         private readonly string _logFilePath;
 
         // Private constructor ensures no external instantiation
+        // Updated private constructor to target your explicit directory path
         private Logger()
         {
-            _logFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "app_log.txt");
+            // This forces the text file to generate exactly inside your design patterns folder
+            _logFilePath = @"D:\Cognizant_Digital-Nurture-DeepSkilling\01-Engineering-Concepts\Module-01-Design-Patterns\app_log.txt";
         }
 
         // Thread-safe Singleton implementation using double-check locking

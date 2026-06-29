@@ -1,31 +1,48 @@
 # Cognizant Digital Nurture 5.0 - Deep Skilling (.NET FSE & Angular)
 
-### 👤 Candidate Details
+## 👤 Candidate Profile
 
-* **Name:** Likuna Swain
-* **Track:** DotNet FSE Mandatory Hands-On
+* **Candidate Name:** Satyaprakash Rout
+* **College / Institution:** C.V. Raman Global University, Bhubaneswar
+* **Stream / Specialization:** Computer Science & Information Technology
+* **Track:** DotNet FSE Mandatory Hands-On Training
+* **Training Period:** June 2026 – August 2026
 
 ---
 
-## 🚀 Progress & Workspace Overview
+## 🚀 Repository Structure & Progress Overview
 
-| Module # | Module Name | Status | Key Technologies Used |
+This repository acts as a week-by-week mandatory training milestone log tracking hands-on exercises for the Cognizant deep skilling track.
+
+| Week | Module / Unit Name | Status | Key Technologies Covered |
 | :--- | :--- | :--- | :--- |
-| **01** | Design Patterns & SOLID | 🟡 In Progress | C#, SOLID Principles, GoF Patterns |
-| **02** | Data Structures & Algorithms | ⚪ Pending | C#, Sorting, Searching, Linked Lists |
-| **03** | Advanced SQL Server | ⚪ Pending | T-SQL, Stored Procedures, Triggers, CTEs |
-| **04** | NUnit & Moq | ⚪ Pending | .NET Unit Testing, Mocking Dependencies |
-| **05** | Entity Framework Core 8.0 | ⚪ Pending | ORM, Migrations, LINQ, Code-First |
-| **06** | ASP.NET Core 8.0 Web API | ⚪ Pending | RESTful APIs, JWT Authentication, Swagger |
-| **07** | Microservices Architecture | ⚪ Pending | API Gateway, Service Discovery, Containers |
-| **08** | Angular (v20) & Debugging | ⚪ Pending | TypeScript, Components, Reactive Forms, RxJS |
-| **09** | Platforms & DevOps | ⚪ Pending | Docker, CI/CD Pipelines, GitHub Copilot |
+| **Week 1** | Design Patterns & Principles / Data Structures | 🟢 Completed | C#, SOLID Principles, GoF Patterns, DSA |
+| **Week 2** | Advanced SQL Using SQL Server | 🟡 In Progress | T-SQL, Window Functions, Stored Procedures |
+| **Week 3** | NUnit & Moq Testing | ⚪ Pending | Unit Testing, Mocking Dependencies |
+| **Week 4** | Entity Framework Core 8 | ⚪ Pending | ORM, CLI Migrations, DB Context, Seeding |
+| **Week 5** | ASP.NET Core 8 Web API | ⚪ Pending | REST APIs, Controllers, Routing, Middleware |
+| **Week 6** | Microservices Architecture | ⚪ Pending | Distributed Systems, JWT Authentication |
+| **Week 7** | Angular Frontend Framework | ⚪ Pending | Single Page Apps, Components, Services |
 
 ---
 
-## 🛠️ How to Review My Solutions
+## 📂 Mapping of Executed Exercises
 
-1. All **Mandatory** exercises mapped against `DN - DotNet FSE Mandatory hands-on detail.xlsx` are organized sequentially within their respective structural sub-folders.
-2. For database scripts, references are located under `02-Programming-Languages/Module-03-Advanced-SQL/`.
-3. Backend .NET architectures can be built natively by opening their solutions (`.sln`) inside **Visual Studio Community Edition**.
-4. The Angular single-page application is accessible inside the frontend folder via `npm install` followed by `ng serve`.
+### 📅 Week 1 – Engineering Concepts
+
+#### 🔹 Design Patterns & Principles
+
+* `Exercise_1_Implementing_the_Singleton_Pattern.cs` - Thread-safe double-checked locking logger logic.
+* `Exercise_2_Implementing_the_Factory_Method_Pattern.cs` - Extensible abstract document creator pattern handling multiple layout streams.
+
+#### 🔹 Data Structures & Algorithms
+
+* `Exercise_2_Ecommerce_Platform_Search_Function.cs` - Complete implementation benchmarking Linear vs Binary array index lookup times.
+* `Exercise_7_Financial_Forecasting.cs` - Recursive math algorithm calculating projected compounding asset growth curves.
+
+### 📅 Week 2 – Advanced SQL
+
+* *Folder Initialized - Ready for Analytical Ranking Queries and Stored Procedures scripts.*
+
+---
+*Maintained under compliance with the Cognizant Digital Nurture 5.0 evaluation parameters.*
