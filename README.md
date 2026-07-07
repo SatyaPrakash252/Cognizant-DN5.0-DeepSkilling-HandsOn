@@ -2,7 +2,7 @@
 
 ## 👤 Candidate Profile
 
-* **Candidate Name:** Anshuman Dhal
+* **Candidate Name:** Satyaprakash Rout
 * **College / Institution:** C.V. Raman Global University, Bhubaneswar
 * **Stream / Specialization:** Computer Science and Engineering (AI & ML)
 * **Track:** DotNet FSE Mandatory Hands-On Training
