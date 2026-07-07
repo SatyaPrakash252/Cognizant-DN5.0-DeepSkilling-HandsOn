@@ -1,0 +1,12 @@
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\bin\Debug\net8.0\CollectionsLib.deps.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\bin\Debug\net8.0\CollectionsLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\bin\Debug\net8.0\CollectionsLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\CollectionsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\CollectionsLib.AssemblyInfoInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\CollectionsLib.AssemblyInfo.cs
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\CollectionsLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\CollectionsLib.sourcelink.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\CollectionsLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\refint\CollectionsLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\CollectionsLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\5_NUnit_Handson_CollectionsLib\CollectionsLib\obj\Debug\net8.0\ref\CollectionsLib.dll

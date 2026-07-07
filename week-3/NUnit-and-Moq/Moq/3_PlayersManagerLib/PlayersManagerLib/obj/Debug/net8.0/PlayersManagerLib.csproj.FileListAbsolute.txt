@@ -1,0 +1,12 @@
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\bin\Debug\net8.0\PlayersManagerLib.deps.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\bin\Debug\net8.0\PlayersManagerLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\bin\Debug\net8.0\PlayersManagerLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\PlayersManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\PlayersManagerLib.AssemblyInfoInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\PlayersManagerLib.AssemblyInfo.cs
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\PlayersManagerLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\PlayersManagerLib.sourcelink.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\PlayersManagerLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\refint\PlayersManagerLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\PlayersManagerLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\3_PlayersManagerLib\PlayersManagerLib\obj\Debug\net8.0\ref\PlayersManagerLib.dll

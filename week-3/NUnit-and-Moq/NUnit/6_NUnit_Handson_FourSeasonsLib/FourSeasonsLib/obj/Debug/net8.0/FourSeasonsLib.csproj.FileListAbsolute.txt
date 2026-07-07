@@ -1,0 +1,12 @@
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\bin\Debug\net8.0\FourSeasonsLib.deps.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\bin\Debug\net8.0\FourSeasonsLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\bin\Debug\net8.0\FourSeasonsLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\FourSeasonsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\FourSeasonsLib.AssemblyInfoInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\FourSeasonsLib.AssemblyInfo.cs
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\FourSeasonsLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\FourSeasonsLib.sourcelink.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\FourSeasonsLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\refint\FourSeasonsLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\FourSeasonsLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\6_NUnit_Handson_FourSeasonsLib\FourSeasonsLib\obj\Debug\net8.0\ref\FourSeasonsLib.dll

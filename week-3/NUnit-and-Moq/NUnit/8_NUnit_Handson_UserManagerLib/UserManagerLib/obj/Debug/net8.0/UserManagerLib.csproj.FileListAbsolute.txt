@@ -1,0 +1,12 @@
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\bin\Debug\net8.0\UserManagerLib.deps.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\bin\Debug\net8.0\UserManagerLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\bin\Debug\net8.0\UserManagerLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\UserManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\UserManagerLib.AssemblyInfoInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\UserManagerLib.AssemblyInfo.cs
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\UserManagerLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\UserManagerLib.sourcelink.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\UserManagerLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\refint\UserManagerLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\UserManagerLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\8_NUnit_Handson_UserManagerLib\UserManagerLib\obj\Debug\net8.0\ref\UserManagerLib.dll

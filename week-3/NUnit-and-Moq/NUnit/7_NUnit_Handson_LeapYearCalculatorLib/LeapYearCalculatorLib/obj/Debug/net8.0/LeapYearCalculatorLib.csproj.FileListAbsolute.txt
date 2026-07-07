@@ -1,0 +1,12 @@
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\bin\Debug\net8.0\LeapYearCalculatorLib.deps.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\bin\Debug\net8.0\LeapYearCalculatorLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\bin\Debug\net8.0\LeapYearCalculatorLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\LeapYearCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\LeapYearCalculatorLib.AssemblyInfoInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\LeapYearCalculatorLib.AssemblyInfo.cs
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\LeapYearCalculatorLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\LeapYearCalculatorLib.sourcelink.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\LeapYearCalculatorLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\refint\LeapYearCalculatorLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\LeapYearCalculatorLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\7_NUnit_Handson_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\net8.0\ref\LeapYearCalculatorLib.dll

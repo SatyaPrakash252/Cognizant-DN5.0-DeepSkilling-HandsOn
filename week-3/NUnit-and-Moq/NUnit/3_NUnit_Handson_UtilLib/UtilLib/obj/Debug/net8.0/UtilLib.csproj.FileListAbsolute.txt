@@ -1,0 +1,12 @@
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\bin\Debug\net8.0\UtilLib.deps.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\bin\Debug\net8.0\UtilLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\bin\Debug\net8.0\UtilLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\UtilLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\UtilLib.AssemblyInfoInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\UtilLib.AssemblyInfo.cs
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\UtilLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\UtilLib.sourcelink.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\UtilLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\refint\UtilLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\UtilLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\NUnit\3_NUnit_Handson_UtilLib\UtilLib\obj\Debug\net8.0\ref\UtilLib.dll

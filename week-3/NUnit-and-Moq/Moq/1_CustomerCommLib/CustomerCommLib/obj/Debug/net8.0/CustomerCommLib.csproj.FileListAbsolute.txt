@@ -1,0 +1,12 @@
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.sourcelink.json
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+D:\Cognizant_Digital-Nurture-DeepSkilling\week-3\NUnit-and-Moq\Moq\1_CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
