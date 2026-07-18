@@ -6,44 +6,55 @@ Console.WriteLine("==========================================");
 
 using var context = new AppDbContext();
 
-// -------------------- UPDATE --------------------
+// -------------------- Display All Products --------------------
 
-var productToUpdate = context.Products.FirstOrDefault(p => p.Name == "Laptop");
+Console.WriteLine("\n===== All Products =====");
 
-if (productToUpdate != null)
+var allProducts = context.Products.ToList();
+
+foreach (var product in allProducts)
 {
-    productToUpdate.Price = 80000;
-    productToUpdate.Quantity = 8;
-
-    context.SaveChanges();
-
-    Console.WriteLine("Product updated successfully!");
+    Console.WriteLine($"{product.ProductId} - {product.Name} - ₹{product.Price}");
 }
 
-// -------------------- DELETE --------------------
+// -------------------- Filter Products --------------------
 
-var productToDelete = context.Products.FirstOrDefault(p => p.Name == "Mouse");
+Console.WriteLine("\n===== Products with Price > 1000 =====");
 
-if (productToDelete != null)
+var expensiveProducts = context.Products
+                               .Where(p => p.Price > 1000)
+                               .ToList();
+
+foreach (var product in expensiveProducts)
 {
-    context.Products.Remove(productToDelete);
-
-    context.SaveChanges();
-
-    Console.WriteLine("Product deleted successfully!");
+    Console.WriteLine($"{product.Name} - ₹{product.Price}");
 }
 
-// -------------------- DISPLAY --------------------
+// -------------------- Sort Products --------------------
 
-Console.WriteLine("\nCurrent Products:\n");
+Console.WriteLine("\n===== Products Sorted by Price =====");
 
-var products = context.Products.ToList();
+var sortedProducts = context.Products
+                            .OrderBy(p => p.Price)
+                            .ToList();
 
-foreach (var product in products)
+foreach (var product in sortedProducts)
 {
-    Console.WriteLine($"ID       : {product.ProductId}");
-    Console.WriteLine($"Name     : {product.Name}");
-    Console.WriteLine($"Price    : ₹{product.Price}");
-    Console.WriteLine($"Quantity : {product.Quantity}");
-    Console.WriteLine("------------------------------");
+    Console.WriteLine($"{product.Name} - ₹{product.Price}");
+}
+
+// -------------------- Find Specific Product --------------------
+
+Console.WriteLine("\n===== Find Product: Laptop =====");
+
+var laptop = context.Products
+                    .FirstOrDefault(p => p.Name == "Laptop");
+
+if (laptop != null)
+{
+    Console.WriteLine($"Found: {laptop.Name} - ₹{laptop.Price}");
+}
+else
+{
+    Console.WriteLine("Product not found.");
 }
