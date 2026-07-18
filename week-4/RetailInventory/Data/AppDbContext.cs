@@ -12,6 +12,9 @@ public class AppDbContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer(
-            @"Server=.\SQLEXPRESS;Database=RetailInventoryDB;Trusted_Connection=True;TrustServerCertificate=True;");
+            @"Server=.\SQLEXPRESS;
+              Database=RetailInventoryDB;
+              Trusted_Connection=True;
+              TrustServerCertificate=True;");
     }
 }
