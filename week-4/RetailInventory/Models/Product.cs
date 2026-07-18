@@ -10,6 +10,9 @@ public class Product
 
     public int Quantity { get; set; }
 
+    // NEW PROPERTY
+    public string Description { get; set; } = string.Empty;
+
     // Foreign Key
     public int CategoryId { get; set; }
 
