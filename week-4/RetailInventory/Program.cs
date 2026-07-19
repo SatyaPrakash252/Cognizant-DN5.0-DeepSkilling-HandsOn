@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailInventory.Data;
-using RetailInventory.DTOs;
+using RetailInventory.Models;
 
 Console.WriteLine("========================================");
 Console.WriteLine(" Retail Inventory Management System");
@@ -8,24 +8,27 @@ Console.WriteLine("========================================");
 
 using var context = new AppDbContext();
 
-var productDTOs = await context.Products
-    .Include(p => p.Category)
-    .Select(p => new ProductDTO
-    {
-        Name = p.Name,
-        CategoryName = p.Category != null
-            ? p.Category.Name
-            : "No Category"
-    })
+Console.WriteLine("\n===== AsNoTracking() =====\n");
+
+var products = await context.Products
+    .AsNoTracking()
     .ToListAsync();
 
-Console.WriteLine("\nProducts\n");
-
-foreach (var product in productDTOs)
+foreach (var product in products)
 {
-    Console.WriteLine($"Product  : {product.Name}");
-    Console.WriteLine($"Category : {product.CategoryName}");
-    Console.WriteLine("------------------------------------");
+    Console.WriteLine($"{product.Name} - ₹{product.Price}");
 }
 
-Console.WriteLine("\nLab 12 Completed Successfully!");
+Console.WriteLine("\n===== Compiled Query =====\n");
+
+var expensiveProductsQuery =
+    EF.CompileAsyncQuery(
+        (AppDbContext ctx, decimal price) =>
+            ctx.Products.Where(p => p.Price > price));
+
+await foreach (var product in expensiveProductsQuery(context, 10000))
+{
+    Console.WriteLine($"{product.Name} - ₹{product.Price}");
+}
+
+Console.WriteLine("\nLab 13 Completed Successfully!");
