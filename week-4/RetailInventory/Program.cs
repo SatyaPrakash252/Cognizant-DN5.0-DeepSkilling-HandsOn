@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailInventory.Data;
-using RetailInventory.Models;
+using RetailInventory.DTOs;
 
 Console.WriteLine("========================================");
 Console.WriteLine(" Retail Inventory Management System");
@@ -8,27 +8,24 @@ Console.WriteLine("========================================");
 
 using var context = new AppDbContext();
 
-// Create a Product Detail
-var detail = new ProductDetail
+var productDTOs = await context.Products
+    .Include(p => p.Category)
+    .Select(p => new ProductDTO
+    {
+        Name = p.Name,
+        CategoryName = p.Category != null
+            ? p.Category.Name
+            : "No Category"
+    })
+    .ToListAsync();
+
+Console.WriteLine("\nProducts\n");
+
+foreach (var product in productDTOs)
 {
-    WarrantyInfo = "2 Years Warranty",
-    ProductId = 1
-};
+    Console.WriteLine($"Product  : {product.Name}");
+    Console.WriteLine($"Category : {product.CategoryName}");
+    Console.WriteLine("------------------------------------");
+}
 
-// Create Tags
-var tag1 = new Tag
-{
-    Name = "Popular"
-};
-
-var tag2 = new Tag
-{
-    Name = "Featured"
-};
-
-context.ProductDetails.Add(detail);
-context.Tags.AddRange(tag1, tag2);
-
-await context.SaveChangesAsync();
-
-Console.WriteLine("\nLab 11 Completed Successfully!");
+Console.WriteLine("\nLab 12 Completed Successfully!");
