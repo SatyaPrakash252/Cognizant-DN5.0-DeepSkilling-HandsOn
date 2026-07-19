@@ -1,21 +1,17 @@
 ﻿using RetailInventory.Data;
+using Microsoft.EntityFrameworkCore;
 
-Console.WriteLine("==========================================");
+Console.WriteLine("=======================================");
 Console.WriteLine(" Retail Inventory Management System");
-Console.WriteLine("==========================================");
+Console.WriteLine("=======================================");
 
 using var context = new AppDbContext();
 
-var products = context.Products.ToList();
+var products = await context.Products.ToListAsync();
 
-Console.WriteLine("\n===== Product List =====\n");
+Console.WriteLine("\nSeeded Products\n");
 
 foreach (var product in products)
 {
-    Console.WriteLine($"ID          : {product.ProductId}");
-    Console.WriteLine($"Name        : {product.Name}");
-    Console.WriteLine($"Price       : ₹{product.Price}");
-    Console.WriteLine($"Quantity    : {product.Quantity}");
-    Console.WriteLine($"Description : {product.Description}");
-    Console.WriteLine("---------------------------------------");
+    Console.WriteLine($"{product.ProductId} - {product.Name} - ₹{product.Price}");
 }
