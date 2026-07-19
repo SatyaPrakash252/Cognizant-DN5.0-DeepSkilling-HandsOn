@@ -9,6 +9,10 @@ public class AppDbContext : DbContext
 
     public DbSet<Category> Categories { get; set; }
 
+    public DbSet<ProductDetail> ProductDetails { get; set; }
+
+    public DbSet<Tag> Tags { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer(
@@ -20,6 +24,13 @@ public class AppDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        // One-to-One
+        modelBuilder.Entity<Product>()
+            .HasOne(p => p.ProductDetail)
+            .WithOne(pd => pd.Product)
+            .HasForeignKey<ProductDetail>(pd => pd.ProductId);
+
+        // Seed Categories
         modelBuilder.Entity<Category>().HasData(
             new Category
             {
@@ -33,6 +44,7 @@ public class AppDbContext : DbContext
             }
         );
 
+        // Seed Products
         modelBuilder.Entity<Product>().HasData(
             new Product
             {

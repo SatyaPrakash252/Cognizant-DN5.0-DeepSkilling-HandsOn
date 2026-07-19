@@ -10,12 +10,15 @@ public class Product
 
     public int Quantity { get; set; }
 
-    // NEW PROPERTY
     public string Description { get; set; } = string.Empty;
 
-    // Foreign Key
     public int CategoryId { get; set; }
 
-    // Navigation Property
     public Category? Category { get; set; }
+
+    // One-to-One Relationship
+    public ProductDetail? ProductDetail { get; set; }
+
+    // Many-to-Many Relationship
+    public ICollection<Tag> Tags { get; set; } = new List<Tag>();
 }

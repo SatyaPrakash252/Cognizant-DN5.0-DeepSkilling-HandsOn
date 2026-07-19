@@ -1,33 +1,34 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RetailInventory.Data;
+using RetailInventory.Models;
 
-Console.WriteLine("==========================================");
+Console.WriteLine("========================================");
 Console.WriteLine(" Retail Inventory Management System");
-Console.WriteLine("==========================================");
+Console.WriteLine("========================================");
 
 using var context = new AppDbContext();
 
-Console.WriteLine("\n===== Eager Loading =====\n");
-
-var products = await context.Products
-    .Include(p => p.Category)
-    .ToListAsync();
-
-foreach (var product in products)
+// Create a Product Detail
+var detail = new ProductDetail
 {
-    Console.WriteLine($"Product : {product.Name}");
-    Console.WriteLine($"Price   : ₹{product.Price}");
-    Console.WriteLine($"Category: {product.Category?.Name}");
-    Console.WriteLine("-----------------------------------");
-}
+    WarrantyInfo = "2 Years Warranty",
+    ProductId = 1
+};
 
-Console.WriteLine("\n===== Explicit Loading =====\n");
+// Create Tags
+var tag1 = new Tag
+{
+    Name = "Popular"
+};
 
-var firstProduct = await context.Products.FirstAsync();
+var tag2 = new Tag
+{
+    Name = "Featured"
+};
 
-await context.Entry(firstProduct)
-             .Reference(p => p.Category)
-             .LoadAsync();
+context.ProductDetails.Add(detail);
+context.Tags.AddRange(tag1, tag2);
 
-Console.WriteLine($"Product : {firstProduct.Name}");
-Console.WriteLine($"Category: {firstProduct.Category?.Name}");
+await context.SaveChangesAsync();
+
+Console.WriteLine("\nLab 11 Completed Successfully!");
