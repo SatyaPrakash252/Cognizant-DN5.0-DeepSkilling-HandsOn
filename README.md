@@ -47,8 +47,8 @@ The repository is organized week-wise and follows the official Cognizant learnin
 
 ### Design Patterns
 
-- ✅ Singleton Pattern
-- ✅ Factory Method Pattern
+- Singleton Pattern
+- Factory Method Pattern
 
 ### Data Structures & Algorithms
 
