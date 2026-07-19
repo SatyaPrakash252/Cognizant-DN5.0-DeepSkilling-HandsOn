@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace RetailInventory.Models;
 
 public class Product
@@ -16,9 +18,10 @@ public class Product
 
     public Category? Category { get; set; }
 
-    // One-to-One Relationship
     public ProductDetail? ProductDetail { get; set; }
 
-    // Many-to-Many Relationship
     public ICollection<Tag> Tags { get; set; } = new List<Tag>();
+
+    [Timestamp]
+    public byte[]? RowVersion { get; set; }
 }

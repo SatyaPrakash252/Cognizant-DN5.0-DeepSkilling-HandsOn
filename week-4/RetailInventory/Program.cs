@@ -1,5 +1,4 @@
-﻿using EFCore.BulkExtensions;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using RetailInventory.Data;
 
 Console.WriteLine("========================================");
@@ -8,25 +7,26 @@ Console.WriteLine("========================================");
 
 using var context = new AppDbContext();
 
-// Fetch all products
-var productList = await context.Products.ToListAsync();
-
-// Increase quantity of every product
-foreach (var product in productList)
+try
 {
-    product.Quantity += 10;
+    var product = await context.Products.FirstOrDefaultAsync();
+
+    if (product != null)
+    {
+        product.Quantity += 5;
+
+        await context.SaveChangesAsync();
+
+        Console.WriteLine("Product updated successfully.");
+    }
+    else
+    {
+        Console.WriteLine("No product found.");
+    }
+}
+catch (DbUpdateConcurrencyException)
+{
+    Console.WriteLine("Concurrency conflict detected.");
 }
 
-// Bulk Update
-await context.BulkUpdateAsync(productList);
-
-Console.WriteLine("\nBulk Update Completed Successfully!\n");
-
-Console.WriteLine("Updated Products:\n");
-
-foreach (var product in productList)
-{
-    Console.WriteLine($"{product.Name} - Quantity: {product.Quantity}");
-}
-
-Console.WriteLine("\nLab 14 Completed Successfully!");
+Console.WriteLine("\nLab 15 Completed Successfully!");
