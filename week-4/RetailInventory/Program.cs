@@ -1,6 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EFCore.BulkExtensions;
+using Microsoft.EntityFrameworkCore;
 using RetailInventory.Data;
-using RetailInventory.Models;
 
 Console.WriteLine("========================================");
 Console.WriteLine(" Retail Inventory Management System");
@@ -8,27 +8,25 @@ Console.WriteLine("========================================");
 
 using var context = new AppDbContext();
 
-Console.WriteLine("\n===== AsNoTracking() =====\n");
+// Fetch all products
+var productList = await context.Products.ToListAsync();
 
-var products = await context.Products
-    .AsNoTracking()
-    .ToListAsync();
-
-foreach (var product in products)
+// Increase quantity of every product
+foreach (var product in productList)
 {
-    Console.WriteLine($"{product.Name} - ₹{product.Price}");
+    product.Quantity += 10;
 }
 
-Console.WriteLine("\n===== Compiled Query =====\n");
+// Bulk Update
+await context.BulkUpdateAsync(productList);
 
-var expensiveProductsQuery =
-    EF.CompileAsyncQuery(
-        (AppDbContext ctx, decimal price) =>
-            ctx.Products.Where(p => p.Price > price));
+Console.WriteLine("\nBulk Update Completed Successfully!\n");
 
-await foreach (var product in expensiveProductsQuery(context, 10000))
+Console.WriteLine("Updated Products:\n");
+
+foreach (var product in productList)
 {
-    Console.WriteLine($"{product.Name} - ₹{product.Price}");
+    Console.WriteLine($"{product.Name} - Quantity: {product.Quantity}");
 }
 
-Console.WriteLine("\nLab 13 Completed Successfully!");
+Console.WriteLine("\nLab 14 Completed Successfully!");
