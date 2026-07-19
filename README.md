@@ -1,11 +1,12 @@
 # 🚀 Cognizant Digital Nurture 5.0 – Deep Skilling (.NET FSE & Angular)
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
-![C%23](https://img.shields.io/badge/C%23-Language-blue)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![NUnit](https://img.shields.io/badge/NUnit-Testing-green)
+![C#](https://img.shields.io/badge/C%23-Language-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-Core-green)
+![NUnit](https://img.shields.io/badge/NUnit-Testing-brightgreen)
 ![Moq](https://img.shields.io/badge/Moq-Mocking-orange)
-![Status](https://img.shields.io/badge/Progress-Week%203-success)
+![Status](https://img.shields.io/badge/Progress-Week%204-success)
 
 ---
 
@@ -22,22 +23,9 @@
 
 # 📖 About This Repository
 
-This repository contains my complete hands-on solutions for the **Cognizant Digital Nurture 5.0 (.NET Full Stack Engineer)** training program.
+This repository contains my complete hands-on solutions for the **Cognizant Digital Nurture 5.0 – .NET Full Stack Engineer (FSE)** Deep Skilling Program.
 
-The repository is organized week-wise and includes practical implementations of:
-
-- Design Patterns
-- SOLID Principles
-- Data Structures & Algorithms
-- Advanced SQL
-- NUnit Testing
-- Moq Framework
-- Entity Framework Core
-- ASP.NET Core Web API
-- Microservices
-- Angular
-
-Each exercise is implemented following the official Cognizant handbook and project structure.
+The repository is organized week-wise and follows the official Cognizant learning path, covering practical implementations, assignments, and hands-on exercises.
 
 ---
 
@@ -48,8 +36,8 @@ Each exercise is implemented following the official Cognizant handbook and proje
 | Week 1 | Engineering Concepts | ✅ Completed |
 | Week 2 | SQL Server Programming | ✅ Completed |
 | Week 3 | NUnit & Moq Testing | ✅ Completed |
-| Week 4 | Entity Framework Core | ⏳ Pending |
-| Week 5 | ASP.NET Core Web API | ⏳ Pending |
+| Week 4 | Entity Framework Core | ✅ Completed |
+| Week 5 | ASP.NET Core Web API | ⏳ In Progress |
 | Week 6 | Microservices | ⏳ Pending |
 | Week 7 | Angular | ⏳ Pending |
 
@@ -57,44 +45,32 @@ Each exercise is implemented following the official Cognizant handbook and proje
 
 # 📅 Week 1 – Engineering Concepts
 
-## Design Patterns
+### Design Patterns
 
-✔ Singleton Pattern
+- ✅ Singleton Pattern
+- ✅ Factory Method Pattern
 
-- Thread-safe Singleton implementation
-- Double-checked locking
+### Data Structures & Algorithms
 
-✔ Factory Method Pattern
-
-- Factory Method implementation
-- Abstract creator classes
-- Dynamic object creation
-
----
-
-## Data Structures & Algorithms
-
-Implemented:
-
-- Product Search (Linear Search)
-- Product Search (Binary Search)
+- Linear Search
+- Binary Search
 - Financial Forecasting using Recursion
 
-Concepts Covered:
+### Concepts Covered
 
-- Time Complexity
-- Recursive Algorithms
-- Searching Techniques
+- Time Complexity Analysis
+- Recursion
+- Searching Algorithms
+- Object-Oriented Programming
 
 ---
 
-# 📅 Week 2 – SQL Server
+# 📅 Week 2 – SQL Server Programming
 
-Completed hands-on exercises covering:
+Completed practical exercises on:
 
 - Database Creation
-- DDL Commands
-- DML Commands
+- DDL & DML Commands
 - Constraints
 - Joins
 - Views
@@ -105,78 +81,58 @@ Completed hands-on exercises covering:
 - Ranking Functions
 - Query Optimization
 
-Technologies:
-
-- SQL Server
-- T-SQL
-
 ---
 
 # 📅 Week 3 – NUnit & Moq
 
-## NUnit Exercises
+### NUnit
 
-✔ Calculator Library
+- Calculator Library
+- Utility Library
+- Accounts Manager
+- Collections Library
+- Four Seasons Library
+- Leap Year Calculator
+- User Manager
+- Currency Converter
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Exception Testing
+### Moq
 
-✔ Utility Library
+- Customer Communication Library
+- Magic Files Library
+- Players Manager Library
 
-- URL Parsing
-- Host Extraction
+### Concepts Covered
 
-✔ Accounts Manager
-
-- Login Validation
-- Authentication Testing
-
-✔ Collections Library
-
-- Collection Assertions
-- Object Validation
-
-✔ Four Seasons Library
-
-- Parameterized Tests
-- TestCaseSource
-
-✔ Leap Year Calculator
-
-- Boundary Testing
-- TestCase
-
-✔ User Manager
-
-- PAN Validation
-- Exception Testing
-
-✔ Currency Converter
-
+- Unit Testing
+- Test Fixtures
+- Assertions
 - Dependency Injection
-- Mock Exchange Service
+- Mocking
+- Test-Driven Development
 
 ---
 
-## Moq Exercises
+# 📅 Week 4 – Entity Framework Core
 
-✔ Customer Communication Library
+Completed hands-on exercises covering:
 
-- Mock IMailSender
-- Verify Mail Operations
-
-✔ Magic Files Library
-
-- Mock File System
-- Directory Testing
-
-✔ Players Manager Library
-
-- Mock Database Layer
-- Player Registration Testing
+- ORM Fundamentals
+- DbContext Configuration
+- EF Core CLI
+- Database Migrations
+- CRUD Operations
+- LINQ Queries
+- Schema Management
+- Data Seeding
+- Eager, Lazy & Explicit Loading
+- One-to-One Relationships
+- Many-to-Many Relationships
+- DTO Mapping
+- Query Tracking
+- Compiled Queries
+- Bulk Operations
+- Concurrency Handling using RowVersion
 
 ---
 
@@ -187,9 +143,10 @@ Technologies:
 - C#
 - SQL
 
-### Frameworks
+### Frameworks & Libraries
 
 - .NET 8
+- Entity Framework Core 8
 - NUnit
 - Moq
 
@@ -202,6 +159,8 @@ Technologies:
 - Object-Oriented Programming
 - SOLID Principles
 - Design Patterns
+- Entity Framework Core
+- LINQ
 - Unit Testing
 - Dependency Injection
 - Mocking
@@ -212,12 +171,12 @@ Technologies:
 # 📈 Current Progress
 
 ```text
-████████████░░░░░░░░░░░░░░
+████████████████░░░░░░░░░░
 
 Week 1  ✅
 Week 2  ✅
 Week 3  ✅
-Week 4  ⏳
+Week 4  ✅
 Week 5  ⏳
 Week 6  ⏳
 Week 7  ⏳
@@ -227,26 +186,28 @@ Week 7  ⏳
 
 # 🎯 Learning Outcomes
 
-Through this program, I have gained hands-on experience in:
+Through this training program, I have gained practical experience in:
 
-- Writing clean and maintainable C# code
-- Applying SOLID principles
-- Implementing Design Patterns
+- Developing applications using C# and .NET 8
+- Applying SOLID Principles and Design Patterns
 - Working with SQL Server
-- Writing Unit Tests using NUnit
+- Building applications using Entity Framework Core
+- Managing Database Migrations
+- Writing LINQ Queries
+- Writing Unit Tests with NUnit
 - Mocking Dependencies using Moq
-- Building scalable .NET applications
+- Implementing Clean and Maintainable Code
 
 ---
 
 ## ⭐ Repository Status
 
-**Current Milestone:** ✅ Week 3 Completed
+**Current Milestone:** ✅ Week 4 Completed
 
-Next Milestone:
+### 🚀 Next Milestone
 
-➡️ Entity Framework Core (Week 4)
+➡️ ASP.NET Core Web API (Week 5)
 
 ---
 
-> **Repository maintained as part of the Cognizant Digital Nurture 5.0 (.NET Full Stack Engineer) Deep Skilling Program.**
+> **Repository maintained as part of the Cognizant Digital Nurture 5.0 – .NET Full Stack Engineer (FSE) Deep Skilling Program.**
