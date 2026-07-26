@@ -1,98 +1,130 @@
-# 🚀 Cognizant Digital Nurture 5.0 – Deep Skilling (.NET FSE & Angular)
+<div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-8.0-purple)
-![C%23](https://img.shields.io/badge/C%23-Language-blue)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![NUnit](https://img.shields.io/badge/NUnit-Testing-green)
-![Moq](https://img.shields.io/badge/Moq-Mocking-orange)
-![Status](https://img.shields.io/badge/Progress-Week%203-success)
+# 🚀 Cognizant Digital Nurture 5.0
+## .NET Full Stack Engineer (FSE) Deep Skilling Program
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8CFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Cognizant+Digital+Nurture+5.0+Repository!;Complete+.NET+Full+Stack+Engineer+Learning+Journey;Design+Patterns+%7C+SQL+%7C+ASP.NET+Core+%7C+Angular;Learning+by+Building+Real+Projects+%F0%9F%9A%80" />
+
+<br>
+
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=csharp)
+![Angular](https://img.shields.io/badge/Angular-Framework-DD0031?style=for-the-badge&logo=angular)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-0EA5E9?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
 
 ---
 
 # 👨‍💻 Candidate Information
 
-- **Name:** Satyaprakash Rout
-- **University:** C. V. Raman Global University, Bhubaneswar
-- **Branch:** Computer Science & Engineering (AI & ML)
-- **Training Program:** Cognizant Digital Nurture 5.0
-- **Track:** .NET Full Stack Engineer (FSE)
-- **Duration:** June 2026 – August 2026
+| | |
+|:--|:--|
+| **Name** | Satyaprakash Rout |
+| **University** | C. V. Raman Global University, Bhubaneswar |
+| **Branch** | Computer Science & Engineering (AI & ML) |
+| **Program** | Cognizant Digital Nurture 5.0 |
+| **Track** | .NET Full Stack Engineer |
+| **Duration** | June 2026 – August 2026 |
 
 ---
 
-# 📖 About This Repository
+# 📖 About
 
-This repository contains my complete hands-on solutions for the **Cognizant Digital Nurture 5.0 (.NET Full Stack Engineer)** training program.
+This repository contains my complete hands-on implementations, exercises, assignments, and mini-projects completed during the **Cognizant Digital Nurture 5.0 (.NET Full Stack Engineer)** Deep Skilling Program.
 
-The repository is organized week-wise and includes practical implementations of:
+The repository demonstrates practical knowledge in:
 
-- Design Patterns
-- SOLID Principles
-- Data Structures & Algorithms
-- Advanced SQL
-- NUnit Testing
-- Moq Framework
-- Entity Framework Core
-- ASP.NET Core Web API
-- Microservices
-- Angular
-
-Each exercise is implemented following the official Cognizant handbook and project structure.
+- 🏗 Design Patterns
+- 🧩 SOLID Principles
+- 💻 C#
+- 📊 Data Structures & Algorithms
+- 🗄 SQL Server
+- ✅ NUnit Testing
+- 🧪 Moq Framework
+- ⚡ Entity Framework Core
+- 🌐 ASP.NET Core Web API
+- ☁ Microservices
+- 🎨 Angular
 
 ---
 
-# 📂 Repository Progress
+# 📂 Repository Structure
+
+```text
+Cognizant-DN5.0-DeepSkilling-HandsOn/
+
+│
+├── Week-1/
+│   ├── Design Patterns
+│   ├── Data Structures
+│   └── Algorithms
+│
+├── Week-2/
+│   ├── SQL Programming
+│   ├── Stored Procedures
+│   ├── Functions
+│   ├── Triggers
+│   └── Optimization
+│
+├── Week-3/
+│   ├── NUnit
+│   └── Moq
+│
+├── Week-4/
+│   └── Entity Framework Core
+│
+├── Week-5/
+│   └── ASP.NET Core Web API
+│
+├── Week-6/
+│   └── Microservices
+│
+└── Week-7/
+    └── Angular
+```
+
+---
+
+# 📅 Learning Roadmap
 
 | Week | Module | Status |
 |------|--------|:------:|
-| Week 1 | Engineering Concepts | ✅ Completed |
-| Week 2 | SQL Server Programming | ✅ Completed |
-| Week 3 | NUnit & Moq Testing | ✅ Completed |
-| Week 4 | Entity Framework Core | ⏳ Pending |
-| Week 5 | ASP.NET Core Web API | ⏳ Pending |
-| Week 6 | Microservices | ⏳ Pending |
-| Week 7 | Angular | ⏳ Pending |
+| Week 1 | Engineering Concepts | ✅ |
+| Week 2 | SQL Server Programming | ✅ |
+| Week 3 | NUnit & Moq | ✅ |
+| Week 4 | Entity Framework Core | ✅ |
+| Week 5 | ASP.NET Core Web API | ✅ |
+| Week 6 | Microservices | ✅ |
+| Week 7 | Angular | ✅ |
 
 ---
 
-# 📅 Week 1 – Engineering Concepts
+# 🏗 Week 1 — Engineering Concepts
 
-## Design Patterns
+### ✔ Design Patterns
 
-✔ Singleton Pattern
+- Singleton Pattern
+- Factory Method Pattern
 
-- Thread-safe Singleton implementation
-- Double-checked locking
+### ✔ Data Structures & Algorithms
 
-✔ Factory Method Pattern
-
-- Factory Method implementation
-- Abstract creator classes
-- Dynamic object creation
-
----
-
-## Data Structures & Algorithms
-
-Implemented:
-
-- Product Search (Linear Search)
-- Product Search (Binary Search)
-- Financial Forecasting using Recursion
-
-Concepts Covered:
-
-- Time Complexity
+- Linear Search
+- Binary Search
+- Financial Forecasting
+- Time Complexity Analysis
 - Recursive Algorithms
-- Searching Techniques
 
 ---
 
-# 📅 Week 2 – SQL Server
+# 🗄 Week 2 — SQL Server
 
-Completed hands-on exercises covering:
+Completed practical exercises on:
 
-- Database Creation
+- Database Design
 - DDL Commands
 - DML Commands
 - Constraints
@@ -105,91 +137,103 @@ Completed hands-on exercises covering:
 - Ranking Functions
 - Query Optimization
 
-Technologies:
+---
 
-- SQL Server
-- T-SQL
+# 🧪 Week 3 — NUnit & Moq
+
+### NUnit
+
+- Calculator Library
+- Utility Library
+- Accounts Manager
+- Collections Library
+- Four Seasons
+- Leap Year Calculator
+- User Manager
+- Currency Converter
+
+### Moq
+
+- Customer Communication
+- Magic Files
+- Players Manager
 
 ---
 
-# 📅 Week 3 – NUnit & Moq
+# ⚡ Week 4 — Entity Framework Core
 
-## NUnit Exercises
+Covered concepts including:
 
-✔ Calculator Library
+- DbContext
+- Entity Models
+- CRUD Operations
+- Relationships
+- LINQ Queries
+- Migrations
+- Repository Pattern
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Exception Testing
+---
 
-✔ Utility Library
+# 🌐 Week 5 — ASP.NET Core Web API
 
-- URL Parsing
-- Host Extraction
+Topics practiced:
 
-✔ Accounts Manager
-
-- Login Validation
-- Authentication Testing
-
-✔ Collections Library
-
-- Collection Assertions
-- Object Validation
-
-✔ Four Seasons Library
-
-- Parameterized Tests
-- TestCaseSource
-
-✔ Leap Year Calculator
-
-- Boundary Testing
-- TestCase
-
-✔ User Manager
-
-- PAN Validation
-- Exception Testing
-
-✔ Currency Converter
-
+- REST APIs
+- Controllers
+- Routing
 - Dependency Injection
-- Mock Exchange Service
+- DTOs
+- Model Validation
+- Swagger
+- Exception Handling
 
 ---
 
-## Moq Exercises
+# ☁ Week 6 — Microservices
 
-✔ Customer Communication Library
+Hands-on learning in:
 
-- Mock IMailSender
-- Verify Mail Operations
-
-✔ Magic Files Library
-
-- Mock File System
-- Directory Testing
-
-✔ Players Manager Library
-
-- Mock Database Layer
-- Player Registration Testing
+- Microservice Architecture
+- API Communication
+- Service Separation
+- Configuration
+- Scalability Concepts
 
 ---
 
-# 🛠 Technologies Used
+# 🎨 Week 7 — Angular
+
+Implemented concepts including:
+
+- Angular CLI
+- Components
+- Data Binding
+- Directives
+- Pipes
+- Routing
+- Services
+- HTTP Client
+- Forms
+- Bootstrap Integration
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
 - C#
 - SQL
+- TypeScript
+- HTML
+- CSS
 
 ### Frameworks
 
 - .NET 8
+- ASP.NET Core
+- Angular
+- Entity Framework Core
 - NUnit
 - Moq
 
@@ -197,56 +241,96 @@ Technologies:
 
 - SQL Server
 
-### Concepts
+### Tools
+
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- Swagger
+
+---
+
+# 🎯 Skills Gained
 
 - Object-Oriented Programming
 - SOLID Principles
 - Design Patterns
-- Unit Testing
-- Dependency Injection
-- Mocking
 - Data Structures & Algorithms
+- SQL Development
+- REST API Development
+- Entity Framework Core
+- Unit Testing
+- Mock Testing
+- Dependency Injection
+- Microservices
+- Angular Development
+- Git Version Control
 
 ---
 
-# 📈 Current Progress
+# 📈 Overall Progress
 
 ```text
-████████████░░░░░░░░░░░░░░
+██████████████████████████████
 
 Week 1  ✅
 Week 2  ✅
 Week 3  ✅
-Week 4  ⏳
-Week 5  ⏳
-Week 6  ⏳
-Week 7  ⏳
+Week 4  ✅
+Week 5  ✅
+Week 6  ✅
+Week 7  ✅
+
+Completion: 100%
 ```
 
 ---
 
-# 🎯 Learning Outcomes
+# 🌟 Highlights
 
-Through this program, I have gained hands-on experience in:
+✔ 7 Weeks of Hands-on Learning
 
-- Writing clean and maintainable C# code
-- Applying SOLID principles
-- Implementing Design Patterns
-- Working with SQL Server
-- Writing Unit Tests using NUnit
-- Mocking Dependencies using Moq
-- Building scalable .NET applications
+✔ 100+ Coding Exercises
+
+✔ Design Patterns & SOLID
+
+✔ SQL Programming
+
+✔ Unit Testing with NUnit
+
+✔ Mock Testing using Moq
+
+✔ Entity Framework Core
+
+✔ ASP.NET Core Web API
+
+✔ Microservices
+
+✔ Angular Development
 
 ---
 
-## ⭐ Repository Status
+# 🤝 Connect With Me
 
-**Current Milestone:** ✅ Week 3 Completed
+<p align="left">
 
-Next Milestone:
+<a href="https://github.com/SatyaPrakash252">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-➡️ Entity Framework Core (Week 4)
+<a href="https://www.linkedin.com/in/satyaprakash-rout-923393289/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
 
 ---
 
-> **Repository maintained as part of the Cognizant Digital Nurture 5.0 (.NET Full Stack Engineer) Deep Skilling Program.**
+<div align="center">
+
+## ⭐ If you found this repository useful, consider giving it a star!
+
+**Made with ❤️ by Satyaprakash Rout**
+
+</div>
