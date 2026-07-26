@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiHandsOn", "WebApiHandsOn\WebApiHandsOn.csproj", "{0BCC124B-F5DE-481E-AAC2-E1C27104400A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaChatApp", "KafkaChatApp\KafkaChatApp.csproj", "{2BD2B592-845B-4497-9743-E93C90797304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BCC124B-F5DE-481E-AAC2-E1C27104400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCC124B-F5DE-481E-AAC2-E1C27104400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCC124B-F5DE-481E-AAC2-E1C27104400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCC124B-F5DE-481E-AAC2-E1C27104400A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD2B592-845B-4497-9743-E93C90797304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD2B592-845B-4497-9743-E93C90797304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD2B592-845B-4497-9743-E93C90797304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD2B592-845B-4497-9743-E93C90797304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3043AB-F56B-4BC1-AD2A-C10049ED2ABB}
+	EndGlobalSection
+EndGlobal

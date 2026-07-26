@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD2B592-845B-4497-9743-E93C90797304}|KafkaChatApp\\KafkaChatApp.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\kafkachatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD2B592-845B-4497-9743-E93C90797304}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\webapihandson.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\webapihandson.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|d:\\cognizant_digital-nurture-deepskilling\\week-5\\webapihandson\\webapihandson\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCC124B-F5DE-481E-AAC2-E1C27104400A}|WebApiHandsOn\\WebApiHandsOn.csproj|solutionrelative:webapihandson\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\KafkaChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Program.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\KafkaChatApp\\Program.cs",
+              "RelativeToolTip": "KafkaChatApp\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T21:43:11.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T21:00:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiHandsOn.http",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\WebApiHandsOn.http",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\WebApiHandsOn.http",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\WebApiHandsOn.http",
+              "RelativeToolTip": "WebApiHandsOn\\WebApiHandsOn.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-25T20:55:10.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\WeatherForecast.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiHandsOn\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T20:47:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T20:46:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Program.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Program.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T20:07:38.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T19:52:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T20:44:57.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Models\\Employee.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T19:50:17.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Models\\Skill.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Models\\Skill.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T19:49:18.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApiHandsOn\\Models\\Department.cs",
+              "ToolTip": "D:\\Cognizant_Digital-Nurture-DeepSkilling\\week-5\\WebApiHandsOn\\WebApiHandsOn\\Models\\Department.cs",
+              "RelativeToolTip": "WebApiHandsOn\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T19:48:25.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
